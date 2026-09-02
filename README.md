@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kjell Høylad
+- 👋 Hi, I’m Kjell Høyland
 - 👀 I’m interested in heart medicine, artificial intelligence, programming in R and in Python, Math and Medical statistics
 - 🌱 I’m currently learning R and Python
 - 💞️ My research field is in quantification of myocardial fibrosis from ultrasound imaging of the heart (echocardiography) in heart failure
