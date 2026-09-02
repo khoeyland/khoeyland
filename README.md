@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @khoeyland
+- 👋 Hi, I’m Kjell Høylad
 - 👀 I’m interested in heart medicine, artificial intelligence, programming in R and in Python, Math and Medical statistics
 - 🌱 I’m currently learning R and Python
-- 💞️ I’m looking to collaborate on using artificial intelligence to aid in quantification of myocardial fibrosis from ultrasound imaging of the heart (echocardiography) in heart failure
+- 💞️ My research field is in quantification of myocardial fibrosis from ultrasound imaging of the heart (echocardiography) in heart failure
 - 📫 How to reach me: kjell.hoyland@ntnu.no
 
 <!---
